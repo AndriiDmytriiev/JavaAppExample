@@ -1,0 +1,1 @@
+This example works in Java
